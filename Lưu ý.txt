@@ -1,0 +1,3 @@
+# Giải nén venv.rar ở mỗi thư mục để có thư mục môi trường venv
+# Add thêm một vài library còn thiếu bởi vì trong thư mục venv quá 50mb dung lượng chứa gihub nên sẽ xóa bỏ vài library
+# Môi trường code thuật toán là Pycharm
